@@ -4,7 +4,7 @@ import { Navbar } from "@/components/navbar";
 
 export const metadata: Metadata = {
   title: "MyStore",
-  description: "Buy cool products",
+  description: "Buy cool dress",
 };
 
 export default function RootLayout({

@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { Carousel } from "@/components/carousel";
 import { ProductList } from "@/components/product-list";
-import { ProductCard } from "@/components/product-card";
 
 
 export default async function Home() {
